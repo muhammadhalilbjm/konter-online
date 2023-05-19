@@ -1,2 +1,3 @@
 Aplikasi ini untuk mengiklankan konter saya
 ini latihan commit
+commit 2
