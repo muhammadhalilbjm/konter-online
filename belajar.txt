@@ -1,3 +1,7 @@
 1. Javascript
+  ^ React
+  ^ Vue
 2. Framework PHP
+  ^ Laravel
+  ^ CodeIgniter
 3. Framework CSS
